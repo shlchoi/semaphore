@@ -12,3 +12,7 @@ See [the main page](https://shlchoi.github.io/semaphore) for more information.
 * [Image Processing Algorithm](https://github.com/mattcwc/semaphore-algorithm)
 * [Android Application](https://github.com/shlchoi/semaphore-android)
 * [iOS Application](https://github.com/shlchoi/semaphore-ios)
+
+## License
+
+Distributed under the GNU GPLv3 license. See [LICENSE](https://github.com/shlchoi/semaphore/blob/master/LICENSE) for more information.
